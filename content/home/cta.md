@@ -8,4 +8,4 @@ subtitle: null
 design:
   columns: "1"
 ---
-{{% cta cta_link="./people/" cta_text="Current Projects→" %}}
+{{% cta cta_link="./news/" cta_text="Current Projects→" %}}
