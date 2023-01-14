@@ -1,73 +1,33 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: Abhijnan Chakraborty
+role: Assistant Professor
+bio: "Research Area: Responsible AI (spec. Algorithmic Fairness), Online Social
+  Networks, AI for Social Good, AI and Law"
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-
+social: []
+organizations:
+  - name: Max Planck Institute for Software Systems
+    url: ""
+  - name: Microsoft Research
+  - name: IIT Delhi
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: "PhD "
+      institution: Ph.D.   IIT Kharagpur
+      year: ""
+    - course: "M.Tech.  "
+      institution: " IIT Kharagpur"
+      year: ""
+    - course: " B.E.   "
+      institution: Jadavpur University
+      year: ""
+email: ""
+superuser: true
 user_groups:
   - Researchers
+highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an Assistant Professor and TBO Group Faculty Fellow in the Department of Computer Science and Engineering at Indian Institute of Technology (IIT) Delhi. I am also closely associated with the Amar Nath and Shashi Khosla School of Information Technology, and the newly formed Yardi School of Artificial Intelligence. Before IIT Delhi, I have worked for 2.5 years at the [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/) as a post-doctoral researcher. My PhD was from [Indian Institute of Technology (IIT) Kharagpur](https://www.iitkgp.ac.in/), where I was jointly advised by [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/) from IIT Kharagpur and [Prof. Krishna Gummadi](https://www.mpi-sws.org/~gummadi/) from MPI-SWS. During PhD, I was awarded the prestigious [Prime Minister's Fellowship for Doctoral Research](http://primeministerfellowshipscheme.in/) and [Google India PhD Fellowship](https://sites.google.com/site/indiacsprograms/phd-fellowships). I have also worked at [Microsoft Research ](http://research.microsoft.com/en-us/labs/india/)for two years.
