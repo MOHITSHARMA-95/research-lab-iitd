@@ -3,7 +3,7 @@ title: Mohit Sharma
 role: PhD Scholar | SIT
 avatar_filename: avatar.jpg
 organizations: []
-superuser: false
+superuser: true
 authors:
   - 吳恩達
 bio: "Research Area: Responsible AI"
