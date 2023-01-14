@@ -6,7 +6,7 @@ weight: 10
 title: "IIT Delhi "
 hero_media: welcome.jpg
 design:
-  columns: "1"
+  columns: ""
   css_style: null
   css_class: null
   background:
