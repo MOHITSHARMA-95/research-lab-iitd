@@ -4,13 +4,14 @@ widget_id: Research Lab CSE/SIT IIT Delhi
 headless: true
 weight: 10
 title: "IIT Delhi "
-hero_media: welcome.jpg
+active: true
 design:
   columns: ""
   css_style: null
   css_class: null
   background:
-    image: contact.jpg
+    image: ""
+hero_media: welcome.jpg
 ---
 <br>
 
