@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: custom
 widget_id: Research Lab CSE/SIT IIT Delhi
 headless: true
 weight: 10
