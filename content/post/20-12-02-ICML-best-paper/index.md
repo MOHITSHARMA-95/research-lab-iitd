@@ -1,6 +1,6 @@
 ---
 title: Research News 1
-date: 2023-01-14T13:04:17.156Z
+date: 2023-01-14T13:27:39.422Z
 image:
   focal_point: top
 ---
