@@ -3,7 +3,7 @@ widget: hero
 widget_id: Research Lab CSE/SIT IIT Delhi
 headless: true
 weight: 10
-title: IIT Delhi Research Group
+title: "IIT Delhi "
 hero_media: welcome.jpg
 design:
   columns: "1"
