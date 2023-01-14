@@ -1,10 +1,11 @@
 ---
-widget: pages
+widget: posts
 widget_id: U-1
 headless: true
-weight: 20
+weight: 0
 title: Recent Research Work
 subtitle: null
+active: true
 content:
   count: 5
   filters:
