@@ -1,5 +1,5 @@
 ---
-widget: posts
+widget: pages
 widget_id: U-1
 headless: true
 weight: 0
