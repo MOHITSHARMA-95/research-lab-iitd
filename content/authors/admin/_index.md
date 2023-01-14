@@ -1,7 +1,7 @@
 ---
 title: Abhijnan Chakraborty
 role: Assistant Professor
-avatar_filename: abhijnan_chakraborty.jpg
+avatar_filename: avatar.jpg
 bio: "Research Area: Responsible AI (spec. Algorithmic Fairness), Online Social
   Networks, AI for Social Good, AI and Law"
 interests:
