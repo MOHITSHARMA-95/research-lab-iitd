@@ -28,3 +28,4 @@ email: ""
 user_groups:
   - Research Scholars
 ---
+I have started my research career recently in 2020 and I am working under the supervision of Dr. Abhijnan Chakraborty.
