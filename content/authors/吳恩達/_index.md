@@ -1,7 +1,7 @@
 ---
 title: Mohit Sharma
 role: PhD Scholar | SIT
-avatar_filename: pp.jpg
+avatar_filename: avatar.jpg
 organizations: []
 superuser: false
 authors:
