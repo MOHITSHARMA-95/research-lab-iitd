@@ -43,7 +43,8 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under IITD Research Group{license}'
+    notice: '© {year} Me. This work is licensed under IITD Research Group'
+#notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: false
       allow_derivatives: false
