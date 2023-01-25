@@ -25,8 +25,8 @@ content:
     country: INDIA
     country_code: IN
   coordinates:
-    latitude: '28° 32' 45.438'
-    longitude: '77° 11' 10.104'
+    latitude: '28.5457'
+    longitude: '77.1928'
   directions: Bharti Buidling
  # office_hours:
    # - 'Monday 10:00 to 13:00'
