@@ -4,6 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+    url: #home
   - name: Tour
     url: tour
     weight: 10
