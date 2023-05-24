@@ -5,7 +5,6 @@ avatar_filename: avatar.jpg
 organizations: []
 superuser: true
 authors:
-  - 吳恩達
 bio: "Research Area: Responsible AI"
 interests:
   - Machine Learning Fairness
