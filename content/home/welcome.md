@@ -3,7 +3,7 @@ widget: hero
 widget_id: Research Lab CSE/SIT IIT Delhi
 headless: true
 weight: 10
-title: "Computing and Society Lab - IIT Delhi "
+title: "Computing and Society Lab "
 active: true
 design:
   columns: ""
