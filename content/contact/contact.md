@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: anz228062@iitd.ac.in
+  
   phone: 
   address:
     street: Hauz Khas
