@@ -1,5 +1,5 @@
 ---
-title: [Abhijnan Chakraborty](https://www.cse.iitd.ac.in/~abhijnan/)
+title: Abhijnan Chakraborty
 role: Assistant Professor
 avatar_filename: avatar.jpg
 
