@@ -19,4 +19,4 @@ education:
     
 email: ""
 user_groups:
-  - ""
+  - 
