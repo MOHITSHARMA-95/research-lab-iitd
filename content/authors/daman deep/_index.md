@@ -1,5 +1,6 @@
+---
 title: Daman Deep Singh
-role: M.S
+role: M.S Researcher
 avatar_filename: 
 organizations: []
 superuser: true
@@ -19,4 +20,5 @@ education:
     
 email: ""
 user_groups:
-  - 
+  - Researcher M.S
+---
