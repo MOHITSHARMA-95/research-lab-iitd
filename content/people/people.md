@@ -18,6 +18,7 @@ content:
   user_groups:
     - Faculty
     - Research Scholar
+    - 
     - Grad Students
     - Administration
     - Visitors
