@@ -19,7 +19,7 @@ design:
       - "0"
 
 
-hero_media: "welcome.png"
+# hero_media: "welcome.png"
 
 ---
 <p style="text-align: justify; width: 200 %">
