@@ -3,6 +3,10 @@ title: Abhijnan Chakraborty
 role: Assistant Professor
 avatar_filename: avatar.jpg
 
+social:
+- icon: globe
+  icon_pack: fas
+  link: https://www.cse.iitd.ac.in/~abhijnan/
 
 bio: "Research Area: Responsible AI (spec. Algorithmic Fairness), Online Social
   Networks, AI for Social Good, AI and Law"
