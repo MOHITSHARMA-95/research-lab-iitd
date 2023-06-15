@@ -5,7 +5,7 @@ headless: true
 weight: 20
 title: "Computing and Society Lab "
 active: true
-
+image: "welcome.png"
 
 ---
 <p style="text-align: justify; width: 200 %">
