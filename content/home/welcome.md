@@ -1,19 +1,14 @@
 ---
-widget: hero
-widget_id: Research Lab CSE/SIT IIT Delhi
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
 headless: true
 weight: 20
+
 title: "Computing and Society Lab "
-active: true
-design:
-  columns: ""
-  css_style: null
-  css_class: null
-  background:
-    image: ""
-hero_media: 
+
+
+
 ---
-<br>
 
 Considering the all-pervasive impact of AI algorithms in our societal lives, it is desirable that these algorithms embed the values/norms we have as a society, and different members of the population should not be disproportionately impacted by the algorithmic decisions. 
 <br>
