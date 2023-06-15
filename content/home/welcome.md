@@ -1,10 +1,24 @@
 ---
+advanced:
+  css_class: fullscreen
+  
 widget: hero
 widget_id: Research Lab CSE/SIT IIT Delhi
 headless: true
 weight: 20
 title: "Computing and Society Lab "
 active: true
+
+design:
+  columns: "1"
+  spacing:
+    padding:
+      - 20px
+      - "0"
+      - 20px
+      - "0"
+
+
 hero_media: "welcome.png"
 
 ---
