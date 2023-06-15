@@ -3,7 +3,7 @@ title: Himali Bajaj
 
 role: M.S Researcher
 
-avatar_filename: "himali.jpg"
+avatar_filename: "avatar.jpg"
 
 organizations: []
 
