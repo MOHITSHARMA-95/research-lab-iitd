@@ -4,7 +4,7 @@ title: Upcoming Event
 event: Conference
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: IIT Delhi
 address:
   street: IIT
   city: Delhi
