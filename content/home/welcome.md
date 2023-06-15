@@ -11,7 +11,6 @@ design:
   css_class: null
   background:
     image: ""
-hero_media: 
 ---
 <br>
 
