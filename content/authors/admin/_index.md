@@ -14,7 +14,7 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-social: []
+
 organizations:
   - name: Max Planck Institute for Software Systems
     url: ""
