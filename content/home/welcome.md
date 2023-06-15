@@ -12,13 +12,15 @@ active: true
 design:
   columns: "1"
 
-  spacing:
+
+    
+hero_media: "welcome.png"
+hero_spacing:
     padding:
       - 20px
       - "20px"
       - 20px
-      - "0"
-hero_media: "welcome.png"
+      - "-20px"
 
 
 ---
