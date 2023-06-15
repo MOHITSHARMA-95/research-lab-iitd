@@ -5,12 +5,7 @@ headless: true
 weight: 20
 title: "Computing and Society Lab "
 active: true
-design:
-  columns: ""
-  css_style: null
-  css_class: null
-  background:
-    image: ""
+
 ---
 <br>
 
