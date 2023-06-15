@@ -4,7 +4,7 @@ role: Assistant Professor
 avatar_filename: avatar.jpg
 
 social:
-- icon: globe
+- icon: user
   icon_pack: fas
   link: https://www.cse.iitd.ac.in/~abhijnan/
 
