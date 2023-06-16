@@ -16,7 +16,11 @@ bio: "Research Area: "
 interests:
 
   - Social Networks
-social: []
+social:
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/pratikgujral/
+  
 education:
   courses:
     - course: "MSR Computer Science"
