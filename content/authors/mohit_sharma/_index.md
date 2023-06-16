@@ -23,7 +23,7 @@ education:
     - course: BSc Physical Sciences
       institution: University of Delhi
       year: 2014
-email: ""
+email: "anz228062@iitd.ac.in"
 user_groups:
   - Research Scholar
 ---
