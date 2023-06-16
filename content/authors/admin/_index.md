@@ -7,6 +7,9 @@ social:
 - icon: user
   icon_pack: fas
   link: https://www.cse.iitd.ac.in/~abhijnan/
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/abhijnan-iitd/
 
 bio: "Research Area: Responsible AI (spec. Algorithmic Fairness), Online Social
   Networks, AI for Social Good, AI and Law"
