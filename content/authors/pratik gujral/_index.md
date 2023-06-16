@@ -3,7 +3,7 @@ title: Pratik Gujral
 
 role: M.S Researcher
 
-avatar_filename: "pratik.jpg"
+avatar_filename: "avatar.jpg"
 
 organizations: []
 
