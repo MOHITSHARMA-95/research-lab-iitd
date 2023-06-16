@@ -19,7 +19,7 @@ hero_spacing:
     padding:
       - 200px
       - "0"
-      - 20px
+      - 0px
       - "0"
 
 
